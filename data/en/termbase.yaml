@@ -1,0 +1,7 @@
+- term: circle
+  definition: "Explanation here"
+- term: fediverse
+  abbr: fedi
+  definition: "Explanation about what the fediverse is. This will show up in a tooltip"
+- term: static site generator
+  definition: "Software engines processing text input to generate static web pages"
