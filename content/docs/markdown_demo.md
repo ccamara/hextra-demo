@@ -8,12 +8,6 @@ categories: [Examples]
 tags: [test, sample, docs]
 ---
 
-{{% pageinfo color="warning td-max-width-on-larger-screens mx-0" %}}
-
-This is a placeholder page. Replace it with your own content.
-
-{{% /pageinfo %}}
-
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io)
 should be blue with no underlines (unless hovered over).
 
@@ -252,19 +246,6 @@ Pedersen, CC-BY-SA._
 >
 > This is a danger alert with a title!
 
-### Alert shortcode
-
-{{% alert %}} This is an alert. {{% /alert %}}
-
-{{% alert title="Alert title" color="secondary" %}} This is an alert with a
-title. {{% /alert %}}
-
-{{% alert color="success" %}} This is a successful alert. {{% /alert %}}
-
-{{% alert color="warning" %}} This is a warning! {{% /alert %}}
-
-{{% alert title="Danger!" color="danger" %}} This is a danger alert with a
-title! {{% /alert %}}
 
 ## Another Heading
 
