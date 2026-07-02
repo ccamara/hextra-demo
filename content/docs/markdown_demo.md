@@ -228,7 +228,7 @@ Pedersen, CC-BY-SA._
 
 ### Alerts in Markdown syntax
 
-> [!NB] This is an alert.
+> [!note] This is an alert.
 
 > [!SECONDARY] Alert title
 >
@@ -242,7 +242,7 @@ Pedersen, CC-BY-SA._
 >
 > This is a warning!
 
-> [!DANGER] Danger!
+> [!important] Danger!
 >
 > This is a danger alert with a title!
 
